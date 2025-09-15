@@ -2,7 +2,8 @@ public class Main {
 
 public static void main(String[] args) { 
     System.out.println("강지성");
-    World.run();
+    World.run(); 
     Hello.run();
+    World.run2(); 
 } 
 }
